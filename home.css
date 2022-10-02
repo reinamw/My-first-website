@@ -1,0 +1,29 @@
+.overall_page {
+     line-height: 1.25;
+     font-size: 25px;
+     margin-left: 300px;
+     margin-right: 300px;
+}
+.test {
+     display: flex;
+     align-items: center;
+     justify-content: space-evenly;
+}
+a.external_link {
+     font-size: 23px;
+     color: black;
+     text-decoration: none;
+}
+.bunny_image {
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+     width: 50%;
+     height: 50%;
+}
+cite {
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+     width: 50%;
+}
